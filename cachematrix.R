@@ -20,3 +20,6 @@ cacheSolve <- function(x, ...) {
 TEST GIT and again please
 
 Where will this go now?>
+
+what is going on
+I have no idea this is just plain weird
