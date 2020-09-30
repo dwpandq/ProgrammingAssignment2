@@ -15,12 +15,18 @@ cacheSolve <- function(x, ...) {
 }
 
 
+#TEST GIT and again please
+
+#Where will this go now?>
+
+#what is going on
+#I have no idea this is just plain weird
+#why isn't it doing any damn thing.
+print("x")
+"this is a test"
 
 
-TEST GIT and again please
+fdasfdafdasfdasfdafdas
+(run away now
+    )
 
-Where will this go now?>
-
-what is going on
-I have no idea this is just plain weird
-why isn't it doing any damn thing.
