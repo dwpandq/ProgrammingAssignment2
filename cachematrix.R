@@ -13,6 +13,7 @@ makeCacheMatrix <- function(x = matrix()) {
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
+<<<<<<< HEAD
 
 
 #TEST GIT and again please
@@ -30,3 +31,5 @@ fdasfdafdasfdasfdafdas
 (run away now
     )
 
+=======
+>>>>>>> bc242fed3b55d4e24cedf128b344b2efd60b633c
